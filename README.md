@@ -7,6 +7,9 @@ The application has six main models — Users, Items, Orders, CartItems, OrderIt
 The app also includes many server side bits including authentication, permissions, sending email, uploading images, and charging credit cards.
 
 <!-- Images -->
+![Screenshot 2024-07-22 at 20-08-04 Sick Fits - Page 1 of 3](https://github.com/user-attachments/assets/54f128fc-0f30-43eb-8186-192f6f7737d8)
+![Screenshot 2024-07-22 at 20-09-20 Sick Fits - Page 2 of 3](https://github.com/user-attachments/assets/abfb9c67-9a86-4130-abb0-9f494dab3623)
+![Screenshot 2024-07-22 at 20-06-25 ](https://github.com/user-attachments/assets/5018f2e7-2d28-4f0c-aa10-4f0d3a4aa185)
 
 <!-- GETTING STARTED -->
 

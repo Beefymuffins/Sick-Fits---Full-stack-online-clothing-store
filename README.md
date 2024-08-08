@@ -113,7 +113,7 @@ Jest - For testing
 👤 Austin Carles
 
 - Linkedin: [@carlescoding](https://www.linkedin.com/in/carlescoding/)
-- Github: [@Beefymuffins](https://github.com/Beefymuffins)
+- Github: [@Beefymuffins](https://github.com/CarlesCoding)
 
 Project Link: [https://github.com/Beefymuffins/Full-Stack-Clothing-website](https://github.com/CarlesCoding/Full-Stack-Clothing-website)
 

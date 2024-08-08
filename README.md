@@ -115,7 +115,7 @@ Jest - For testing
 - Linkedin: [@carlescoding](https://www.linkedin.com/in/carlescoding/)
 - Github: [@Beefymuffins](https://github.com/Beefymuffins)
 
-Project Link: [https://github.com/Beefymuffins/Full-Stack-Clothing-website](https://github.com/Beefymuffins/Full-Stack-Clothing-website)
+Project Link: [https://github.com/Beefymuffins/Full-Stack-Clothing-website](https://github.com/CarlesCoding/Full-Stack-Clothing-website)
 
 <!-- Acknowledgments  -->
 
